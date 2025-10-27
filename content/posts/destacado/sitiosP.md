@@ -13,4 +13,8 @@ Ahora en dirección norte cruzando el emblemático puente de Alejandro III, come
 
 Una vez atravesada la parte neoclásica y modernista de París, entramos por un momento en la Ile de la cité, la isla de París que supone el corazón de la ciudad. En ella se encuentran los dos ejemplos de gótico más destacados de Francia: la Sainte-Chapelle, que supone el mejor ejemplo de gótico radiante por sus grandes cristaleras, y Notre Damme (que por desgracia no pude admirar acceder  por los trabajos de restauración tras el incendio) la catedral de la ciudad, que aún con los desperfectos sufridos sigue flotando de forma imponente sobre el río como un barco.
 
-Atravesando la isla y pasando por el barrio latino se encuentra el Panteón, muy similar al de Agripa  e Garnier.
+Atravesando la isla y pasando por el barrio latino se encuentra el Panteón, muy similar al de Agripa en Roma, en el se encuentran las sepulturas de personalidades políticas, literarias y cientificas como Victor Hugo, Dumas o Marie Curie.
+
+Cruzando otra vez el río Senna, en dirección hacia Montmatre nos encontramos la Opera de París o de Garnier, fundada en el siglo XIX durante el segundo imperio francés. Un edificio neoclasico que contrasta con el también conocido Moulin Rougue que se encuentra un poco más adelante a los pies de la colina, un emblemático cabaré fundado a finales del siglo XIX. 
+
+Finalmente, al final del día y desde la Basílica del Sacre Cour, se puede disfrutar de las mejores vistas del centro de París.  
