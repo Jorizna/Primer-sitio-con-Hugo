@@ -1,4 +1,6 @@
 baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+languageCode = 'es-es'
+title = 'Blog de Jorge'
 theme = 'hyde' 
+[params]
+  description = "Un blog personal de viajes por Europa"

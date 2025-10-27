@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
+    <title>Posts on Blog de Jorge</title>
     <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <description>Recent content in Posts on Blog de Jorge</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
+    <language>es-es</language>
     <lastBuildDate>Tue, 21 Oct 2025 16:55:31 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Mi Blog</title>
+      <title>Bienvenido a mi Blog</title>
       <link>http://localhost:1313/posts/mi-primer-post/</link>
       <pubDate>Tue, 21 Oct 2025 16:55:31 +0200</pubDate>
       <guid>http://localhost:1313/posts/mi-primer-post/</guid>
-      <description>&lt;p&gt;Bienvenido a mi blog. Aquí encontrarás todos mis posts.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Bienvenido, en este blog te hablaré de mi experiencia visitando dos de las capitales más relevantes de Europa, París y Roma.&#xA;En un par de viajes pude comprobar que ambas ciudades mantienen un tipo de vida propio y una singular idiosincrasia que las convierte en entornos únicos.&lt;/p&gt;&#xA;&lt;p&gt;Por ello la finalidad del blog es explorar desde una experiencia propia las ideas fundamentales que transmiten ambas ciudades. Aunque al haber sido una experiencia tan fugaz puedo decir que he logrado solo ver la fachada de estas grandes urbes y que para tener una opinión más desarrollada necesitaría pasar más tiempo. Esto no supone ningún problema, puesto que son ciudades que parece que nunca terminas de explorar y descubrir nuevos rincones, lo que las convierte en lugares susceptibles a una nueva visita.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Paris</title>
       <link>http://localhost:1313/posts/ciudades/paris/</link>
       <pubDate>Tue, 21 Oct 2025 16:55:31 +0200</pubDate>
       <guid>http://localhost:1313/posts/ciudades/paris/</guid>
-      <description></description>
+      <description>&lt;p&gt;Ubicada en la Ille de France y atravesada por el río Senna, París compone el área metropolitana más grande de la Europa continental.&#xA;París es una ciudad cuya fundación se remonta al siglo III a.C., no sería hasta el siglo X cuando comenzó a ser una de las ciudades más influyentes de Francia.&lt;/p&gt;&#xA;&lt;p&gt;Desde entonces y después de varias transformaciones París se ha convertido en uno de los escaparates de Europa, como una ciudad modélica, refleja de una forma imponente su historia. Podemos destacar su ensanche, una interminable red de grandes avenidas y viviendas del característico tejado azulado, al pasear por sus calles tienes la sensación de estar en un plano completamente armonizado.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Roma</title>
