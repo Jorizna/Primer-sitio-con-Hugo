@@ -2,60 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog de Jorge</title>
-    <link>http://localhost:1313/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content on Blog de Jorge</description>
     <generator>Hugo</generator>
     <language>es-es</language>
     <lastBuildDate>Tue, 21 Oct 2025 16:55:31 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bienvenido a mi Blog</title>
-      <link>http://localhost:1313/posts/mi-primer-post/</link>
+      <link>//localhost:1313/posts/mi-primer-post/</link>
       <pubDate>Tue, 21 Oct 2025 16:55:31 +0200</pubDate>
-      <guid>http://localhost:1313/posts/mi-primer-post/</guid>
-      <description>&lt;p&gt;Bienvenido, en este blog te hablaré de mi experiencia visitando dos de las capitales más relevantes de Europa, París y Roma.&#xA;En un par de viajes pude comprobar que ambas ciudades mantienen un tipo de vida propio y una singular idiosincrasia que las convierte en entornos únicos.&lt;/p&gt;&#xA;&lt;p&gt;Por ello la finalidad del blog es explorar desde una experiencia propia las ideas fundamentales que transmiten ambas ciudades. Aunque al haber sido una experiencia tan fugaz puedo decir que he logrado solo ver la fachada de estas grandes urbes y que para tener una opinión más desarrollada necesitaría pasar más tiempo. Esto no supone ningún problema, puesto que son ciudades que parece que nunca terminas de explorar y descubrir nuevos rincones, lo que las convierte en lugares susceptibles a una nueva visita.&lt;/p&gt;</description>
+      <guid>//localhost:1313/posts/mi-primer-post/</guid>
+      <description>&lt;p&gt;Bienvenido, en este blog te hablaré de mi experiencia visitando dos de las capitales más relevantes de Europa, París y Roma.&#xA;En un par de viajes pude comprobar que ambas ciudades mantienen un tipo de vida propio y una singular idiosincrasia que las convierte en entornos únicos.&lt;/p&gt;&#xA;&lt;p&gt;Por ello la finalidad del blog es explorar desde una experiencia propia las ideas fundamentales que transmiten ambas ciudades. Aunque al haber sido una experiencia tan fugaz puedo decir que he logrado solo ver la fachada de estas grandes urbes y que para tener una opinión más desarrollada necesitaría pasar más tiempo. Esto no supone ningún problema, puesto que son ciudades que parece que nunca terminas de explorar y descubrir nuevos rincones, lo que las convierte en lugares susceptibles a una nueva visita.&lt;/p&gt;&#xA;&lt;p&gt;Después de esta breve introducción comienza el contenido de este blog informativo a cerca de las ciudades.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/foto3.jpg&#34; alt=&#34;Tercera imagen&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Paris</title>
-      <link>http://localhost:1313/posts/ciudades/paris/</link>
+      <link>//localhost:1313/posts/ciudades/paris/</link>
       <pubDate>Tue, 21 Oct 2025 16:55:31 +0200</pubDate>
-      <guid>http://localhost:1313/posts/ciudades/paris/</guid>
-      <description>&lt;p&gt;Ubicada en la Ille de France y atravesada por el río Senna, París compone el área metropolitana más grande de la Europa continental.&#xA;París es una ciudad cuya fundación se remonta al siglo III a.C., no sería hasta el siglo X cuando comenzó a ser una de las ciudades más influyentes de Francia.&lt;/p&gt;&#xA;&lt;p&gt;Desde entonces y después de varias transformaciones París se ha convertido en uno de los escaparates de Europa, como una ciudad modélica, refleja de una forma imponente su historia. Podemos destacar su ensanche, una interminable red de grandes avenidas y viviendas del característico tejado azulado, al pasear por sus calles tienes la sensación de estar en un plano completamente armonizado.&lt;/p&gt;</description>
+      <guid>//localhost:1313/posts/ciudades/paris/</guid>
+      <description>&lt;p&gt;Ubicada en la Ille de France y atravesada por el río Senna, París compone el área metropolitana más grande de la Europa continental.&#xA;París es una ciudad cuya fundación se remonta al siglo III a.C., no sería hasta el siglo X cuando comenzó a ser una de las ciudades más influyentes de Francia.&lt;/p&gt;&#xA;&lt;p&gt;Desde entonces y después de varias transformaciones París se ha convertido en uno de los escaparates de Europa, como una ciudad modélica, refleja de una forma imponente su historia. Podemos destacar su ensanche, una interminable red de grandes avenidas y viviendas del característico tejado azulado, al pasear por sus calles tienes la sensación de estar en un plano completamente &lt;strong&gt;armonizado&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Roma</title>
-      <link>http://localhost:1313/posts/ciudades/roma/</link>
+      <link>//localhost:1313/posts/ciudades/roma/</link>
       <pubDate>Tue, 21 Oct 2025 16:55:31 +0200</pubDate>
-      <guid>http://localhost:1313/posts/ciudades/roma/</guid>
-      <description>&lt;p&gt;En el 753 a.C. según la tradición Rómulo, primer monarca romano, fundaba entre siete colinas del Lacio la ciudad de Roma. En 2700 años de historia ha pasado de ser la capital de un reino a la de de una república, un imperio y de la cristiandad.&lt;/p&gt;&#xA;&lt;p&gt;Sin duda Roma es la ciudad más influyente en la historia del continente europeo, puesto que gran parte de la historia de Europa está ligada a acontecimientos sucedidos en época de la antigua Roma y posteriormente a la religiosidad del Vaticano. Roma es una ciudad única, su legado esta presente en cada esquina de la ciudad que genera un caos perfecto en el que perderse para descubrir un nuevo pedazo de su historia.&lt;/p&gt;</description>
+      <guid>//localhost:1313/posts/ciudades/roma/</guid>
+      <description>&lt;p&gt;En el 753 a.C. según la tradición Rómulo, primer monarca romano, fundaba entre siete colinas del Lacio la ciudad de Roma. En 2700 años de historia ha pasado de ser la capital de un reino a la de de una república, un imperio y de la cristiandad.&lt;/p&gt;&#xA;&lt;p&gt;Sin duda Roma es la ciudad más influyente en la historia del continente europeo, puesto que gran parte de la historia de Europa está ligada a acontecimientos sucedidos en época de la antigua Roma y posteriormente a la religiosidad del Vaticano. Roma es una ciudad única, su legado esta presente en cada esquina de la ciudad que genera un caos perfecto en el que perderse para descubrir un nuevo pedazo de su historia.&#xA;&lt;img src=&#34;//localhost:1313/images/imagenesRoma/foto1.jpg&#34; alt=&#34;Quinta imagen&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Sitios Paris</title>
-      <link>http://localhost:1313/posts/destacado/sitiosp/</link>
+      <link>//localhost:1313/posts/destacado/sitiosp/</link>
       <pubDate>Tue, 21 Oct 2025 16:55:31 +0200</pubDate>
-      <guid>http://localhost:1313/posts/destacado/sitiosp/</guid>
-      <description>&lt;p&gt;Para mostrar los lugares más emblemáticos de París, voy a mostrar una ruta que seguí en mi primer día allí.&lt;/p&gt;&#xA;&lt;p&gt;Empezando desde Trocadero, lugar famoso por sus fotografías, puesto que desde aquí se tienen una magnífica vista de la Torre Eiffel. Bajando por las escaleras y cruzando el río, paseando por los alrededores de la gran torre de hierro, se puede admirar como la aparente simpleza de esta la convierte en sí en una obra de arte. Continuando unas pocas manzanas más hacia el este, se encuentra el mausoleo de los Inválidos, actualmente un museo Napoleónico y lugar en el que se encuentra la sepultura de Napoleón Bonaparte.&lt;/p&gt;</description>
+      <guid>//localhost:1313/posts/destacado/sitiosp/</guid>
+      <description>&lt;p&gt;Para mostrar los lugares más emblemáticos de París, voy a mostrar una ruta que seguí en mi primer día allí.&lt;/p&gt;&#xA;&lt;p&gt;Empezando desde Trocadero, lugar famoso por sus fotografías, puesto que desde aquí se tienen una magnífica vista de la &lt;strong&gt;Torre Eiffel&lt;/strong&gt;. Bajando por las escaleras y cruzando el río, paseando por los alrededores de la gran torre de hierro, se puede admirar como la aparente simpleza de esta la convierte en sí en una obra de arte. Continuando unas pocas manzanas más hacia el este, se encuentra el mausoleo de &lt;strong&gt;los Inválidos&lt;/strong&gt;, actualmente un museo Napoleónico y lugar en el que se encuentra la sepultura de Napoleón Bonaparte.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Sitios Roma</title>
-      <link>http://localhost:1313/posts/destacado/sitiosr/</link>
+      <link>//localhost:1313/posts/destacado/sitiosr/</link>
       <pubDate>Tue, 21 Oct 2025 16:55:31 +0200</pubDate>
-      <guid>http://localhost:1313/posts/destacado/sitiosr/</guid>
-      <description>&lt;p&gt;Para empezar por Roma, es recomendable empezar el tour por la zona del centro de la ciudad imperial, para empezar en el foro normalemente las visitas guiadas incluyen la visita al Coliseo, seguido por un paseo por el foro y el monte Palatino. Estas visitas son recomendables puesto que te enseña el interior del anfiteatro, pero además disfrutas viendo los arcos de Constantino y de Tito, grandes obras arquitectónicas y de una gran calidad escultórica. Caminando por la vía sacra se pueden ver los sucesivos foros de Julio César, Augusto, Nerva y Trajano, también la basilica de Magencio.&lt;/p&gt;</description>
+      <guid>//localhost:1313/posts/destacado/sitiosr/</guid>
+      <description>&lt;p&gt;Para empezar por Roma, es recomendable empezar el tour por la zona del centro de la ciudad imperial, para empezar en el foro normalemente las visitas guiadas incluyen la visita al &lt;strong&gt;Coliseo&lt;/strong&gt;, seguido por un paseo por el &lt;strong&gt;Foro y el monte Palatino&lt;/strong&gt;. Estas visitas son recomendables puesto que te enseña el interior del anfiteatro, pero además disfrutas viendo los arcos de &lt;strong&gt;Constantino y de Tito&lt;/strong&gt;, grandes obras arquitectónicas y de una gran calidad escultórica. Caminando por la vía sacra se pueden ver los sucesivos foros de Julio César, Augusto, Nerva y Trajano, también la basilica de Magencio.&#xA;&lt;img src=&#34;//localhost:1313/images/imagenesRoma/foto7.jpg&#34; alt=&#34;Séptima imagen&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>El arte de  Paris</title>
-      <link>http://localhost:1313/posts/arte/artep/</link>
+      <link>//localhost:1313/posts/arte/artep/</link>
       <pubDate>Tue, 21 Oct 2025 16:55:31 +0200</pubDate>
-      <guid>http://localhost:1313/posts/arte/artep/</guid>
+      <guid>//localhost:1313/posts/arte/artep/</guid>
       <description>&lt;p&gt;En cuanto al arte de París en la parte arquitectónica, nos encontramos con una abundancia de gótico francés, neoclásico y modernista. Ahora en las artes plásticas París tiene una gran variedad, para ello me centro en tres museos: Louvre, Orsay y Pompidou.&lt;/p&gt;&#xA;&lt;p&gt;La principal característica del Louvre es su gran variedad de colecciones. Empezando por las antigüedades francesas como la colección de los Bonaparte, con joyas de la época imperial, o antigüedades extranjeras como el Escriba Sentado, escultura egipcia del imperio antiguo de Egipto, o el código de Hamurabi, un código legal sumerio considerado uno de los primeros de la historia.&lt;/p&gt;</description>
     </item>
     <item>
       <title>El arte de Roma</title>
-      <link>http://localhost:1313/posts/arte/arter/</link>
+      <link>//localhost:1313/posts/arte/arter/</link>
       <pubDate>Tue, 21 Oct 2025 16:55:31 +0200</pubDate>
-      <guid>http://localhost:1313/posts/arte/arter/</guid>
-      <description></description>
+      <guid>//localhost:1313/posts/arte/arter/</guid>
+      <description>&lt;p&gt;Exterior de la Basílica:&#xA;En la Plaza de San Pedro, diseñada por Bernini, las columnas parecen abrazar a los peregrinos. El obelisco central y las fuentes completan el equilibrio del conjunto. Desde este espacio, se aprecia la fachada monumental de la basílica y se siente la energía del lugar, donde arte, fe y humanidad se encuentran en armonía.&lt;/p&gt;&#xA;&lt;p&gt;Obras del Vaticano:&#xA;En los Museos Vaticanos se encuentra una de las colecciones más ricas del mundo. Encontramos una buena parte de obras de época romana como mosaicos y diversas esculturas como &lt;em&gt;&amp;ldquo;Laoconte y sus Hijos&amp;rdquo;&lt;/em&gt;, arte extraído de antiguos edificios romanos o hallado de manera fortuita como es el caso del Laoconte.&#xA;&lt;img src=&#34;//localhost:1313/images/imagenesRoma/foto17.jpg&#34; alt=&#34;Octava imagen&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
