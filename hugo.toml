@@ -3,4 +3,7 @@ languageCode = 'es-es'
 title = 'Blog de Jorge'
 theme = 'hyde' 
 [params]
+  
   description = "Un blog personal de viajes por Europa"
+  author = "Jorge"
+  themeColor = "theme-base-0e"

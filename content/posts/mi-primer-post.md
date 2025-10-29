@@ -5,6 +5,7 @@ title = 'Bienvenido a mi Blog'
 weight = 1
 
 +++
+
 Bienvenido, en este blog te hablaré de mi experiencia visitando dos de las capitales más relevantes de Europa, París y Roma.
 En un par de viajes pude comprobar que ambas ciudades mantienen un tipo de vida propio y una singular idiosincrasia que las convierte en entornos únicos. 
 

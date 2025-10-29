@@ -5,9 +5,13 @@ title = 'Sitios Paris'
 weight = 4
 +++
 
-Para mostrar los lugares más emblemáticos de París, voy a mostrar una ruta que seguí en mi primer día allí.
+## Para mostrar los lugares más emblemáticos de París, voy a mostrar una ruta que seguí en mi primer día allí. 
+A la hora de desplazarse recomiendo moverse en metro para llegar al centro urbano.
+{{< enlace url="https://www.ratp.fr/" texto="Sitio oficial del Metro de París" >}}
+
 
 Empezando desde Trocadero, lugar famoso por sus fotografías, puesto que desde aquí se tienen una magnífica vista de la **Torre Eiffel**. Bajando por las escaleras y cruzando el río, paseando por los alrededores de la gran torre de hierro, se puede admirar como la aparente simpleza de esta la convierte en sí en una obra de arte. Continuando unas pocas manzanas más hacia el este, se encuentra el mausoleo de **los Inválidos**, actualmente un museo Napoleónico y lugar en el que se encuentra la sepultura de Napoleón Bonaparte. 
+![Mi imagen](/images/foto5.jpg)         
 
 Ahora en dirección norte cruzando el emblemático puente de Alejandro III, comenzamos a recorrer los **Campos Eliseos** desde el Arco de Triunfo, levantado por Napoleón tras la victoria en Austerlitz, hasta la plaza de la Concordia, lugar emblemático de la revolución francesa. Atravesando esta, se encuentra el museo del Louvre, la pinacoteca más visitada del mundo.
 

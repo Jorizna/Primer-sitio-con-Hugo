@@ -15,3 +15,5 @@ París no solo es orden, también es **romanticismo** y es precisamente donde su
 
 París en definitiva se puede definir con dos palabras: armonía y romanticismo.
 ![Segunda imagen](/images/foto11.jpg)         
+
+---
